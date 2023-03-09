@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "image": "/imgs/bracelet-1.jpg",
+    "name": "Trendy Bracelet",
+    "price": 20
+  },
+  {
+    "id": 2,
+    "image": "/imgs/bracelet-2.jpg",
+    "name": "Pearl Bracelet",
+    "price": 25
+  },
+  {
+    "id": 3,
+    "image": "/imgs/bracelet-3.jpg",
+    "name": "Clip-on Bracelet",
+    "price": 30
+  },
+  {
+    "id": 5,
+    "image": "/imgs/earring-1.jpg",
+    "name": "Classy Earrings",
+    "price": 35
+  },
+  {
+    "id": 6,
+    "image": "/imgs/earring-2.jpg",
+    "name": "Custom Earrings",
+    "price": 5
+  },
+  {
+    "id": 7,
+    "image": "/imgs/earring-4.webp",
+    "name": "Metallic Earrings",
+    "price": 15
+  },
+  {
+    "id": 9,
+    "image": "/imgs/necklace-1.jpg",
+    "name": "Pearls Necklace",
+    "price": 45
+  },
+  {
+    "id": 10,
+    "image": "/imgs/necklace-2.webp",
+    "name": "Purple Gem Necklace",
+    "price": 40
+  },
+  {
+    "id": 17,
+    "image": "/imgs/necklace-3.jpg",
+    "name": "Bead Necklace",
+    "price": 42
+  },
+  {
+    "id": 11,
+    "image": "/imgs/ring-1.jpg",
+    "name": "Trendy Rings",
+    "price": 25
+  },
+  {
+    "id": 12,
+    "image": "/imgs/ring-2.jpg",
+    "name": "Sliver Ring",
+    "price": 20
+  },
+  {
+    "id": 13,
+    "image": "/imgs/ring-3.jpg",
+    "name": "Gold Rings",
+    "price": 30
+  },
+  {
+    "id": 14,
+    "image": "/imgs/watch-1.jpg",
+    "name": "Trendy Wristwatch",
+    "price": 50
+  },
+  {
+    "id": 15,
+    "image": "/imgs/watch-2.jpg",
+    "name": "Silver Wristwatch",
+    "price": 55
+  },
+  {
+    "id": 16,
+    "image": "/imgs/watch-3.webp",
+    "name": "Leather Wristwatch",
+    "price": 50
+  }
+]
